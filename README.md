@@ -19,21 +19,6 @@ A modern, responsive e-commerce platform built with Angular featuring user authe
 
 ## 🖼️ Screenshots
 
-### 🔐 Authentication
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/f0d0a6d1-abb6-459a-b138-e68c4c29be89" width="400" alt="Login Screen">
-      <br><strong>Login Page</strong>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/9d958631-b114-4f44-8900-5883f9b42f16" width="400" alt="Register Screen">
-      <br><strong>Registration Page</strong>
-    </td>
-  </tr>
-</table>
-
 ### 🏠 Home & Products
 
 <table>
@@ -55,3 +40,18 @@ A modern, responsive e-commerce platform built with Angular featuring user authe
   <img src="https://github.com/user-attachments/assets/129452d9-793f-4aee-9ee8-2631c7fc240d" width="800" alt="Cart Page">
   <br><strong>Shopping Cart</strong>
 </p>
+
+### 🔐 Authentication
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f0d0a6d1-abb6-459a-b138-e68c4c29be89" width="400" alt="Login Screen">
+      <br><strong>Login Page</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9d958631-b114-4f44-8900-5883f9b42f16" width="400" alt="Register Screen">
+      <br><strong>Registration Page</strong>
+    </td>
+  </tr>
+</table>
